@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+class calculator{
+	public static void main(String []){
+		Scanner bucky = new Scanner(System.in);
+		double = fnum, snum, answer;
+		System.out.println("Enter First Number:");
+		fnum = bucky.nextDouble();
+		System.out.println("Enter Second Number");
+		answer = fnum + snum;
+		System.out.println(answer);
